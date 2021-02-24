@@ -1,0 +1,3 @@
+[submodule "treys"]
+	path = treys
+	url = https://github.com/ihendley/treys.git
